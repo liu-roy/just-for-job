@@ -5,6 +5,10 @@ import java.util.HashMap;
 /**
  * 某二叉树的先序遍历结果记录于整数数组 preorder，
  * 它的中序遍历结果记录于整数数组 inorder。请根据 preorder 和 inorder 的提示构造出这棵二叉树并返回其根节点。
+ *
+ * 输入: preorder = [3,9,20,15,7], inorder = [9,3,15,20,7]
+ *
+ * 输出: [3,9,20,null,null,15,7]
  */
 
 
